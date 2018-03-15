@@ -19,6 +19,7 @@ If the save fails, that line will identify the error thrown by the validation an
 This project was pretty doable and definitely the right difficulty!
 
 # Extra credit: Link your Heroku deployed app
+https://arcane-taiga-30636.herokuapp.com/ 
 https://github.com/emilyhu20/sp18-proj1
 
 
